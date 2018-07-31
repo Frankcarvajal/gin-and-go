@@ -38,7 +38,7 @@ type Joke struct {
 	Joke  string `json:"joke" binding:"required"`
 }
 
-/** we'll create a list of jokes */
+/** create a list of jokes */
 var jokes = []Joke{
 	Joke{1, 0, "Did you hear about the restaurant on the moon? Great food, no atmosphere."},
 	Joke{2, 0, "What do you call a fake noodle? An Impasta."},

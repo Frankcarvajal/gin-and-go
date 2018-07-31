@@ -1,6 +1,4 @@
-# Golang app with the Gin framework, and authenticate with Auth0 + JWT
-
-This repo contains the code samples for the [Build a Golang app with the Gin framework, and authenticate with Auth0 + JWT 🔥
+# Golang app with the Gin framework, and authenticate with Auth0 + JWT 🔥
 
 ## Setup
 
