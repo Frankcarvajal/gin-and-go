@@ -1,4 +1,4 @@
-# Golang app with the Gin framework, and authenticate with Auth0 + JWT 🔥
+# Golang app with the Gin framework, authentication with Auth0 + JWT, View via React storing JWT via localStorage 🔥
 
 ## Setup
 
